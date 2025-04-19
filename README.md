@@ -11,9 +11,9 @@
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=py,tensorflow,flutter,java,docker,c,html,css,firebase,mysql,azure,aws,linux,github,git" alt="skills logos" /> <br>
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=emyuksel&show_icons=true&locale=en&layout=compact&theme=apprentice&show_icons=true" alt="emyuksel" height="155" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emyuksel&show_icons=true&locale=en&theme=apprentice" alt="emyuksel" height="155" width="400"/></p>
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emyuksel&show_icons=true&locale=en&theme=apprentice" alt="emyuksel" height="155"/></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=emyuksel&show_icons=true&locale=en&layout=compact&theme=apprentice&show_icons=true" alt="emyuksel" height="180" width="400"/></p>
 
 </br></br></br></br></br></br></br></br>
 
