@@ -15,7 +15,7 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emyuksel&show_icons=true&locale=en&theme=apprentice" alt="emyuksel" height="155"/></p>
 
-</br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br>
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emyuksel&label=Profile%20views&color=brightgreen&style=plastic" alt="emyuksel" /> </p>
